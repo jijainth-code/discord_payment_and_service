@@ -13,6 +13,7 @@ flask-cors = "*"
 flask-socketio = "*"
 pymongo = {extras = ["srv"], version = "*"}
 openai = "*"
+pytz = "*"
 
 [dev-packages]
 ipykernel = "*"
